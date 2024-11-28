@@ -1,0 +1,77 @@
+@charset "UTF-8" ;
+
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+.principal{
+    display: grid;
+    width: 30vw;
+    height: 520px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px;
+    transform: translate(100%, 10%);
+    
+}
+
+.um{
+    width: 260px;
+    height: 250px;
+    background-color: aqua;
+}
+
+.img1{
+    width: 90%;
+    height: 90%;
+    background-image: url(💙💙.jpg);
+    background-size: cover;
+    transform: translate(6%, 6%);
+}
+
+.dois{
+    width: 260px;
+    height: 250px;
+    background-color: aqua;
+}
+
+.img2{
+    width: 90%;
+    height: 90%;
+    background-image: url(Mulan\ movie\ poster.jpg);
+    background-size: cover;
+    transform: translate(6%, 6%);
+}
+
+.tres{
+    width: 260px;
+    height: 250px;
+    background-color: aqua;
+
+}
+
+.img3{
+    width: 90%;
+    height: 90%;
+    background-image: url(download\ \(18\).jpg);
+    background-size: cover;
+    transform: translate(6%, 6%);
+}
+
+.quatro{
+    width: 260px;
+    height: 250px;
+    background-color: aqua;
+}
+
+    .img4{
+    width: 90%;
+    height: 90%;
+    background-image: url(download\ \(22\).jpg);
+    background-size: cover;
+    transform: translate(6%, 6%);
+
+}
+
